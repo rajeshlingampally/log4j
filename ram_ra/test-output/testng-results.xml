@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-27T22:54:45 IST" name="Suite" finished-at="2021-07-27T22:55:10 IST" duration-ms="24360">
+    <groups>
+    </groups>
+    <test started-at="2021-07-27T22:54:45 IST" name="Test" finished-at="2021-07-27T22:55:10 IST" duration-ms="24360">
+      <class name="ram_raj.Prop">
+        <test-method signature="getprop(org.openqa.selenium.WebDriver)[pri:0, instance:ram_raj.Prop@2b71e916]" started-at="2021-07-27T22:55:10 IST" name="getprop" finished-at="2021-07-27T22:55:10 IST" duration-ms="0" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Cannot inject @Test annotated Method [getprop] with [interface org.openqa.selenium.WebDriver].
+For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Cannot inject @Test annotated Method [getprop] with [interface org.openqa.selenium.WebDriver].
+For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection
+at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:439)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:353)
+at org.testng.internal.Parameters.createParameters(Parameters.java:708)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:884)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:740)
+at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:59)
+at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:38)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:791)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1510)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getprop -->
+      </class> <!-- ram_raj.Prop -->
+      <class name="ram_raj.Rvavan">
+        <test-method is-config="true" signature="setup()[pri:0, instance:ram_raj.Rvavan@2a3b5b47]" started-at="2021-07-27T22:54:45 IST" name="setup" finished-at="2021-07-27T22:54:56 IST" duration-ms="10365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="freeCrmTitleTest()[pri:1, instance:ram_raj.Rvavan@2a3b5b47]" started-at="2021-07-27T22:54:56 IST" name="freeCrmTitleTest" finished-at="2021-07-27T22:54:56 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeCrmTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ram_raj.Rvavan@2a3b5b47]" started-at="2021-07-27T22:54:56 IST" name="tearDown" finished-at="2021-07-27T22:54:57 IST" duration-ms="883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:ram_raj.Rvavan@2a3b5b47]" started-at="2021-07-27T22:54:57 IST" name="setup" finished-at="2021-07-27T22:55:06 IST" duration-ms="9011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="freemCRMLogoTest()[pri:2, instance:ram_raj.Rvavan@2a3b5b47]" started-at="2021-07-27T22:55:06 IST" name="freemCRMLogoTest" finished-at="2021-07-27T22:55:09 IST" duration-ms="3008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freemCRMLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ram_raj.Rvavan@2a3b5b47]" started-at="2021-07-27T22:55:09 IST" name="tearDown" finished-at="2021-07-27T22:55:10 IST" duration-ms="936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ram_raj.Rvavan -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,92 @@
+2021-07-27 22:47:19,659  INFO [main] Rvavan:28 - ****************************** Starting test cases execution  *****************************************
+2021-07-27 22:47:23,560  INFO [main] Rvavan:32 - launching chrome broswer
+2021-07-27 22:47:30,485  INFO [main] Rvavan:40 - entering application URL
+2021-07-27 22:47:30,487  WARN [main] Rvavan:41 - Hey this just a warning message
+2021-07-27 22:47:30,488 FATAL [main] Rvavan:42 - hey this is just fatal error message
+2021-07-27 22:47:30,489 DEBUG [main] Rvavan:43 - this is debug message
+2021-07-27 22:47:30,508  INFO [main] Rvavan:47 - ****************************** starting test case *****************************************
+2021-07-27 22:47:30,510  INFO [main] Rvavan:48 - ****************************** freeCrmTitleTest *****************************************
+2021-07-27 22:47:30,632  INFO [main] Rvavan:52 - login page title is--->#1 Free CRM customer relationship management software cloud
+2021-07-27 22:47:30,640  INFO [main] Rvavan:56 - ****************************** ending test case *****************************************
+2021-07-27 22:47:30,641  INFO [main] Rvavan:57 - ****************************** freeCrmTitleTest *****************************************
+2021-07-27 22:47:31,610  INFO [main] Rvavan:78 - ****************************** Browser is closed  ok*****************************************
+2021-07-27 22:47:31,618  INFO [main] Rvavan:28 - ****************************** Starting test cases execution  *****************************************
+2021-07-27 22:47:33,794  INFO [main] Rvavan:32 - launching chrome broswer
+2021-07-27 22:47:40,955  INFO [main] Rvavan:40 - entering application URL
+2021-07-27 22:47:40,955  WARN [main] Rvavan:41 - Hey this just a warning message
+2021-07-27 22:47:40,960 FATAL [main] Rvavan:42 - hey this is just fatal error message
+2021-07-27 22:47:40,960 DEBUG [main] Rvavan:43 - this is debug message
+2021-07-27 22:47:43,967  INFO [main] Rvavan:64 - ****************************** starting test case *****************************************
+2021-07-27 22:47:43,968  INFO [main] Rvavan:65 - ****************************** freemCRMLogoTest *****************************************
+2021-07-27 22:47:43,969  INFO [main] Rvavan:68 - ****************************** ending test case *****************************************
+2021-07-27 22:47:43,969  INFO [main] Rvavan:69 - ****************************** freemCRMLogoTest *****************************************
+2021-07-27 22:47:44,789  INFO [main] Rvavan:78 - ****************************** Browser is closed  ok*****************************************
+2021-07-27 22:50:09,553  INFO [main] Rvavan:28 - ****************************** Starting test cases execution  *****************************************
+2021-07-27 22:50:13,509  INFO [main] Rvavan:32 - launching chrome broswer
+2021-07-27 22:50:21,674  INFO [main] Rvavan:40 - entering application URL
+2021-07-27 22:50:21,675  WARN [main] Rvavan:41 - Hey this just a warning message
+2021-07-27 22:50:21,676 FATAL [main] Rvavan:42 - hey this is just fatal error message
+2021-07-27 22:50:21,677 DEBUG [main] Rvavan:43 - this is debug message
+2021-07-27 22:50:21,685  INFO [main] Rvavan:47 - ****************************** starting test case *****************************************
+2021-07-27 22:50:21,687  INFO [main] Rvavan:48 - ****************************** freeCrmTitleTest *****************************************
+2021-07-27 22:50:21,774  INFO [main] Rvavan:52 - login page title is--->#1 Free CRM customer relationship management software cloud
+2021-07-27 22:50:21,781  INFO [main] Rvavan:56 - ****************************** ending test case *****************************************
+2021-07-27 22:50:21,782  INFO [main] Rvavan:57 - ****************************** freeCrmTitleTest *****************************************
+2021-07-27 22:50:23,704  INFO [main] Rvavan:78 - ****************************** Browser is closed  ok*****************************************
+2021-07-27 22:50:23,710  INFO [main] Rvavan:28 - ****************************** Starting test cases execution  *****************************************
+2021-07-27 22:50:25,895  INFO [main] Rvavan:32 - launching chrome broswer
+2021-07-27 22:50:32,991  INFO [main] Rvavan:40 - entering application URL
+2021-07-27 22:50:32,992  WARN [main] Rvavan:41 - Hey this just a warning message
+2021-07-27 22:50:32,995 FATAL [main] Rvavan:42 - hey this is just fatal error message
+2021-07-27 22:50:32,995 DEBUG [main] Rvavan:43 - this is debug message
+2021-07-27 22:50:35,997  INFO [main] Rvavan:64 - ****************************** starting test case *****************************************
+2021-07-27 22:50:35,998  INFO [main] Rvavan:65 - ****************************** freemCRMLogoTest *****************************************
+2021-07-27 22:50:35,999  INFO [main] Rvavan:68 - ****************************** ending test case *****************************************
+2021-07-27 22:50:36,001  INFO [main] Rvavan:69 - ****************************** freemCRMLogoTest *****************************************
+2021-07-27 22:50:36,969  INFO [main] Rvavan:78 - ****************************** Browser is closed  ok*****************************************
+2021-07-27 22:54:01,207  INFO [main] Rvavan:28 - ****************************** Starting test cases execution  *****************************************
+2021-07-27 22:54:05,046  INFO [main] Rvavan:32 - launching chrome broswer
+2021-07-27 22:54:11,691  INFO [main] Rvavan:40 - entering application URL
+2021-07-27 22:54:11,692  WARN [main] Rvavan:41 - Hey this just a warning message
+2021-07-27 22:54:11,693 FATAL [main] Rvavan:42 - hey this is just fatal error message
+2021-07-27 22:54:11,694 DEBUG [main] Rvavan:43 - this is debug message
+2021-07-27 22:54:11,713  INFO [main] Rvavan:47 - ****************************** starting test case *****************************************
+2021-07-27 22:54:11,714  INFO [main] Rvavan:48 - ****************************** freeCrmTitleTest *****************************************
+2021-07-27 22:54:11,729  INFO [main] Rvavan:52 - login page title is--->#1 Free CRM customer relationship management software cloud
+2021-07-27 22:54:11,734  INFO [main] Rvavan:56 - ****************************** ending test case *****************************************
+2021-07-27 22:54:11,734  INFO [main] Rvavan:57 - ****************************** freeCrmTitleTest *****************************************
+2021-07-27 22:54:12,638  INFO [main] Rvavan:78 - ****************************** Browser is closed  ok*****************************************
+2021-07-27 22:54:12,655  INFO [main] Rvavan:28 - ****************************** Starting test cases execution  *****************************************
+2021-07-27 22:54:14,801  INFO [main] Rvavan:32 - launching chrome broswer
+2021-07-27 22:54:21,527  INFO [main] Rvavan:40 - entering application URL
+2021-07-27 22:54:21,529  WARN [main] Rvavan:41 - Hey this just a warning message
+2021-07-27 22:54:21,532 FATAL [main] Rvavan:42 - hey this is just fatal error message
+2021-07-27 22:54:21,533 DEBUG [main] Rvavan:43 - this is debug message
+2021-07-27 22:54:24,540  INFO [main] Rvavan:64 - ****************************** starting test case *****************************************
+2021-07-27 22:54:24,541  INFO [main] Rvavan:65 - ****************************** freemCRMLogoTest *****************************************
+2021-07-27 22:54:24,542  INFO [main] Rvavan:68 - ****************************** ending test case *****************************************
+2021-07-27 22:54:24,543  INFO [main] Rvavan:69 - ****************************** freemCRMLogoTest *****************************************
+2021-07-27 22:54:25,437  INFO [main] Rvavan:78 - ****************************** Browser is closed  ok*****************************************
+2021-07-27 22:54:45,966  INFO [main] Rvavan:28 - ****************************** Starting test cases execution  *****************************************
+2021-07-27 22:54:49,755  INFO [main] Rvavan:32 - launching chrome broswer
+2021-07-27 22:54:56,315  INFO [main] Rvavan:40 - entering application URL
+2021-07-27 22:54:56,317  WARN [main] Rvavan:41 - Hey this just a warning message
+2021-07-27 22:54:56,318 FATAL [main] Rvavan:42 - hey this is just fatal error message
+2021-07-27 22:54:56,318 DEBUG [main] Rvavan:43 - this is debug message
+2021-07-27 22:54:56,337  INFO [main] Rvavan:47 - ****************************** starting test case *****************************************
+2021-07-27 22:54:56,338  INFO [main] Rvavan:48 - ****************************** freeCrmTitleTest *****************************************
+2021-07-27 22:54:56,358  INFO [main] Rvavan:52 - login page title is--->#1 Free CRM customer relationship management software cloud
+2021-07-27 22:54:56,362  INFO [main] Rvavan:56 - ****************************** ending test case *****************************************
+2021-07-27 22:54:56,363  INFO [main] Rvavan:57 - ****************************** freeCrmTitleTest *****************************************
+2021-07-27 22:54:57,250  INFO [main] Rvavan:78 - ****************************** Browser is closed  ok*****************************************
+2021-07-27 22:54:57,264  INFO [main] Rvavan:28 - ****************************** Starting test cases execution  *****************************************
+2021-07-27 22:54:59,304  INFO [main] Rvavan:32 - launching chrome broswer
+2021-07-27 22:55:06,263  INFO [main] Rvavan:40 - entering application URL
+2021-07-27 22:55:06,265  WARN [main] Rvavan:41 - Hey this just a warning message
+2021-07-27 22:55:06,268 FATAL [main] Rvavan:42 - hey this is just fatal error message
+2021-07-27 22:55:06,269 DEBUG [main] Rvavan:43 - this is debug message
+2021-07-27 22:55:09,274  INFO [main] Rvavan:64 - ****************************** starting test case *****************************************
+2021-07-27 22:55:09,275  INFO [main] Rvavan:65 - ****************************** freemCRMLogoTest *****************************************
+2021-07-27 22:55:09,276  INFO [main] Rvavan:68 - ****************************** ending test case *****************************************
+2021-07-27 22:55:09,276  INFO [main] Rvavan:69 - ****************************** freemCRMLogoTest *****************************************
+2021-07-27 22:55:10,216  INFO [main] Rvavan:78 - ****************************** Browser is closed  ok*****************************************
